@@ -1,0 +1,36 @@
+# Entorno virtual de Python
+venv/
+env/
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de Flask
+instance/
+.env
+*.env
+
+# Logs
+*.log
+
+# Archivos de bases de datos locales
+*.sqlite3
+*.db
+
+# Archivos del editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Dependencias instaladas a través de pip
+pip-wheel-metadata/
+*.dist-info/
+
+# Archivos de configuración de sistema
+.DS_Store
+Thumbs.db
